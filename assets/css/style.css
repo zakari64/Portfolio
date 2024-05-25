@@ -2654,8 +2654,23 @@ canvas {
     padding: 0.6em 1.5em;
   }
   .st-about-img {
-    min-height: 400px;
+    display : none ;
+    
   }
+  .st-text-block.st-style1 .st-text-block-title {
+    font-size: 36px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    text-align: center;
+  }
+  .st-text-block.st-style1 .st-text-block-subtitle {
+    font-size: 24px;
+    font-weight: 300;
+    color: #fec544;
+    margin-bottom: 18px;
+    text-align: center;
+  }
+  
 }
 
 /*--------------------------------------------------------------
